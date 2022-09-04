@@ -1,6 +1,6 @@
 ### Olá, Bem vindo ao meu perfil do GitHub!👋
 
-![Snake animation](https://github.com/oPjorr/oPjorr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/opjorr/opjorr/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://oPjorr">
@@ -28,8 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
           
