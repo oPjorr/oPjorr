@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://oPjorr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=cobalt2"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=outrun"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 </div>
   
 ##
