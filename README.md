@@ -1,7 +1,5 @@
 ### Olá, Bem vindo ao meu perfil do GitHub!
 
-![Snake animation](https://github.com/opjorr/opjorr/blob/output/github-contribution-grid-snake.svg)
-
 <div>
 <a href="https://oPjorr">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
