@@ -1,4 +1,5 @@
- <img height="50em" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif"> <h1> Olá, Bem vindo ao meu perfil do GitHub! </h1>
+<div class="font-size: 50px"> Olá, Bem vindo ao meu perfil do GitHub! <img height="50em" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif"></div>
+
 <div>
 <a href="https://oPjorr">
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=outrun"/>
