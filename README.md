@@ -1,4 +1,4 @@
-<div class="font-size: 50px"> Olá, Bem vindo ao meu perfil do GitHub! <img height="50em" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif"></div>
+<div class="font-size: 100px"> Olá, Bem vindo ao meu perfil do GitHub! <img height="50em" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif"></div>
 
 <div>
 <a href="https://oPjorr">
