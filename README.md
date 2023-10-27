@@ -1,4 +1,4 @@
-<h1> Olá, Bem vindo ao meu perfil do GitHub!</h1> <img height="50em" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
+<h1> Olá, Bem vindo ao meu perfil do GitHub!</h1> <img height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
 
 <h1>
 <a href="https://oPjorr">
