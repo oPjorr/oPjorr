@@ -1,4 +1,4 @@
-<table style="border: none;">
+<table border="0">
   <tr>
     <td>
       <h2>Olá, Bem vindo ao meu perfil do GitHub</h2>
