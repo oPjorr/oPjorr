@@ -1,9 +1,9 @@
-<table border="0">
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <h2>Olá, Bem vindo ao meu perfil do GitHub</h2>
     </td>
-    <td>
+    <td style="border: none;">
       <img height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
     </td>
   </tr>
