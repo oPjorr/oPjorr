@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
+  <img align="right" width="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
   <h2>Olá, Bem vindo ao meu perfil do GitHub</h2>
 </div>
 
