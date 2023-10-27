@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; flex-direction: row;">
    <h2>Olá, Bem vindo ao meu perfil do GitHub! </h2>
   <img height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
 </div>
