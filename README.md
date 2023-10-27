@@ -1,5 +1,5 @@
-## Olá, Bem vindo ao meu perfil do Github
-<img src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif" width="50">
+# Olá, Bem vindo ao meu perfil do Github
+![Olá, Bem vindo ao meu perfil do GitHub](https://github.com/oPjorr/gif-ola/blob/master/hi.gif){width=50px}
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=outrun"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   
