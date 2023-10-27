@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
-  <h2 style="margin: 0; padding: 0;">Olá, Bem vindo ao meu perfil do GitHub</h2>
+<div align="center">
+  <img align="left" height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
+  <h2>Olá, Bem vindo ao meu perfil do GitHub</h2>
 </div>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=outrun"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
