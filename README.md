@@ -1,4 +1,4 @@
-<h2>Olá, Bem vindo ao meu perfil do GitHub <img src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">.</h2>
+<h2>Olá, Bem vindo ao meu perfil do GitHub <img src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif"></h2>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=outrun"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   
