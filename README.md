@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td>
-      <img height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
+      <h2>Olá, Bem vindo ao meu perfil do GitHub</h2>
     </td>
     <td>
-      <h2>Olá, Bem vindo ao meu perfil do GitHub</h2>
+      <img height="50px" src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif">
     </td>
   </tr>
 </table>
