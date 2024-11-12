@@ -1,6 +1,6 @@
 <h1 align="left">Olá, seja bem vindo ao meu perfil do GitHub!<img src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif" height="50px"></h1>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=outrun"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
 ##
   
