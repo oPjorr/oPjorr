@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend+Deca&duration=3000&pause=2000&color=B654FE&size=35&center=true&width=800&lines=Olá,+seja+bem+vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG">
   </a>
-  <img src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif" height="80px" style="vertical-align: middle;">
+  <img src="https://github.com/oPjorr/gif-ola/blob/master/hi.gif" height="60px" style="vertical-align: middle;">
 </div>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
