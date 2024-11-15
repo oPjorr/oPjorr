@@ -1,8 +1,13 @@
+<img src="images/header.svg">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Lexend+Deca&duration=3000&pause=2000&color=B654FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil+do+GitHub!+👋)](https://git.io/typing-svg)
 
+<div style="text-align: center;">
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img src="https://github.com/oPjorr/perfil-items/blob/main/forest.gif">
-##
+<img width="760em" style="margin-top: 10px" src="images/forest.gif">
+</div>
+
+<hr style="width: 800px"/>
   
 ### 🛠 Ferramentas e Tecnologias
 <div>
@@ -16,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </div>
   
-##
+<hr style="width: 800px"/>
   
 ### 🚀 Estou Aprendendo
 <div>
@@ -29,3 +34,5 @@
 <!-- https://github.com/devicons/devicon/tree/v2.16.0/icons -->
           
 <div>
+
+<img style="margin-top: 10px" src="images/footer.svg">
