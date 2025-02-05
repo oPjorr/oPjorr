@@ -4,7 +4,6 @@
 
 <div style="text-align: center;">
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opjorr&layout=compact&langs_count=7&theme=midnight-purple"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=opjorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img width="760em" style="margin-top: 10px" src="images/forest.gif">
 </div>
 
 <hr style="width: 800px"/>
